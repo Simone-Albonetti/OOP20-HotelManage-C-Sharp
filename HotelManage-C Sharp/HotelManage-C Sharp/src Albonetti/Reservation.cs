@@ -17,25 +17,25 @@ public class Reservation
 
     public Client Client
     {
-        get { return this.client;}
-        set { this.client = value;}
+        get { return this.client; }
+        set { this.client = value; }
     }
 
     public DateTime DateIn
     {
-        get { return this.dateIn;}
-        set { this.dateIn = value;}
+        get { return this.dateIn; }
+        set { this.dateIn = value; }
     }
 
     public DateTime DateOut
     {
-        get { return this.dateOut;}
-        set { this.dateOut = value;}
+        get { return this.dateOut; }
+        set { this.dateOut = value; }
     }
 
     public Room Room
     {
-        get { return this.room;}
-        set { this.room = value;}
+        get { return this.room; }
+        set { this.room = value; }
     }
 }
