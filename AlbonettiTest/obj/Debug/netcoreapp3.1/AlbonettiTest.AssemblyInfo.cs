@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HotelManage-C Sharp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AlbonettiTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("HotelManage-C Sharp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HotelManage-C Sharp")]
+[assembly: System.Reflection.AssemblyProductAttribute("AlbonettiTest")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AlbonettiTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
