@@ -1,4 +1,6 @@
-﻿namespace AlbonettiSrc
+﻿using System;
+
+namespace AlbonettiSrc
 {
     public class Room
     {
@@ -22,5 +24,11 @@
             get { return this.type; }
             set { this.type = value; }
         }
+
+        public override string ToString()
+        {
+            return "Room:\nRoom Number: " + RoomNumber + "\n" + Type ;
+        }
     }
+
 }
