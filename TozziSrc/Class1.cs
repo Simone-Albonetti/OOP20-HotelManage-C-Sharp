@@ -2,7 +2,7 @@
 
 namespace TozziSrc
 {
-    public class Client
+    public class Class1
     {
     }
 }

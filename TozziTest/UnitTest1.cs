@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace TozziTest
 {
@@ -8,6 +9,8 @@ namespace TozziTest
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.IsTrue(3 == 3.0);
+            Console.WriteLine("Prova console");
         }
     }
 }
