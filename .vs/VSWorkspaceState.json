@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AlbonettiTest"
+    "\\TozziSrc",
+    "\\TozziSrc\\obj"
   ],
-  "SelectedNode": "\\HotelManage Csharp.sln",
+  "SelectedNode": "\\AlbonettiSrc",
   "PreviewInSolutionExplorer": false
 }
