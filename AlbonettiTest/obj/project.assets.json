@@ -5733,19 +5733,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\simon\\.nuget\\packages\\": {}
+    "C:\\Users\\Utente\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simon\\Desktop\\HotelManage Csharp\\AlbonettiTest\\AlbonettiTest.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\OOP20-HotelManage-C-Sharp\\AlbonettiTest\\AlbonettiTest.csproj",
       "projectName": "AlbonettiTest",
-      "projectPath": "C:\\Users\\simon\\Desktop\\HotelManage Csharp\\AlbonettiTest\\AlbonettiTest.csproj",
-      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simon\\Desktop\\HotelManage Csharp\\AlbonettiTest\\obj\\",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\OOP20-HotelManage-C-Sharp\\AlbonettiTest\\AlbonettiTest.csproj",
+      "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\OOP20-HotelManage-C-Sharp\\AlbonettiTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5759,8 +5759,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\simon\\Desktop\\HotelManage Csharp\\AlbonettiSrc\\AlbonettiSrc.csproj": {
-              "projectPath": "C:\\Users\\simon\\Desktop\\HotelManage Csharp\\AlbonettiSrc\\AlbonettiSrc.csproj"
+            "C:\\Users\\Utente\\Desktop\\OOP20-HotelManage-C-Sharp\\AlbonettiSrc\\AlbonettiSrc.csproj": {
+              "projectPath": "C:\\Users\\Utente\\Desktop\\OOP20-HotelManage-C-Sharp\\AlbonettiSrc\\AlbonettiSrc.csproj"
             }
           }
         }
