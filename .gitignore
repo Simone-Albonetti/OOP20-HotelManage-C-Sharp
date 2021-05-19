@@ -1,11 +1,14 @@
-AlbonettiSrc/bin/*
-AlbonettiSrc/obj/
-AlbonettiTest/obj/
-AlbonettiTest/bin/
-TozziSrc/bin/
-TozziSrc/obj/
-TozziTest/obj/
-TozziTest/bin/
+AlbonettiSrc/bin
+AlbonettiSrc/obj
+AlbonettiTest/obj
+AlbonettiTest/bin
+TozziSrc/bin
+TozziSrc/obj
+TozziTest/obj
+TozziTest/bin
 
 *.class
 *.suo
+*.cache
+*.testlog
+*.cache
