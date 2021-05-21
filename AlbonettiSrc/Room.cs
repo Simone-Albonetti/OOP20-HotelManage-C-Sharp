@@ -27,7 +27,7 @@ namespace AlbonettiSrc
 
         public override string ToString()
         {
-            return "Room:\nRoom Number: " + RoomNumber + "\n" + Type ;
+            return "Room[Room Number[ " + RoomNumber + "], RoomType[" + Type + "]]" ;
         }
     }
 

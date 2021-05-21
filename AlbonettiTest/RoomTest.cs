@@ -1,6 +1,5 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using AlbonettiSrc;
-using System.Collections.Generic;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
 namespace AlbonettiTest
@@ -19,9 +18,9 @@ namespace AlbonettiTest
         [TestMethod]
         public void TestControllerRoom()
         {
-            RoomController roomController = new RoomController();       
+            RoomController roomController = new RoomController();
             Assert.AreEqual(21, roomController.GetRooms().Count);
-            Assert.AreEqual(5 ,roomController.GetRoom(5).RoomNumber);
+            Assert.AreEqual(5, roomController.GetRoom(5).RoomNumber);
             Assert.AreEqual(RoomType.SUITE, roomController.GetRoom(21).Type);
         }
 

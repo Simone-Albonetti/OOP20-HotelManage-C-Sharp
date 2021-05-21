@@ -41,5 +41,10 @@ namespace AlbonettiSrc
             get { return this.room; }
             set { this.room = value; }
         }
+
+        public override string ToString()
+        {
+            return "Reservation[Client[" + Client + "], DateIn[" + DateIn + "], DateOut[" + DateOut + "], Room[" + Room + "]]";
+        }
     }
 }
