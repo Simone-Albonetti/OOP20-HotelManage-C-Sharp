@@ -8,10 +8,6 @@ namespace TozziSrc
     {
         List<Client> list = new List<Client>();
 
-       /* public ControllerClient(List<Client> l)
-        {
-            this.list = l;
-        }*/
         public List<Client> GetAllClient() => list;
 
         public void InsertClient(string n, string s, string i)
