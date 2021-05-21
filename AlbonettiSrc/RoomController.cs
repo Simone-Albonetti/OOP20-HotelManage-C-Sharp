@@ -12,7 +12,7 @@ namespace AlbonettiSrc
         private readonly int QUARTUPLEROOMNUMBER = 5;
         private readonly int SUITEROOMNUMBER = 1;
 
-        private List<Room> rooms = new List<Room>();
+        private readonly List<Room> rooms = new List<Room>();
 
 
         private void Initialize()
@@ -39,8 +39,11 @@ namespace AlbonettiSrc
                 this.rooms.Add(room);
             }
 
-            Room suite = new Room(counter, RoomType.SUITE);
-            this.rooms.Add(suite);
+            for (; counter <= SINGLEROOMNUMBER + DOUBLEROOMNUMBER + TRIPLEROOMNUMBER + QUARTUPLEROOMNUMBER + SUITEROOMNUMBER ; counter++)
+            {
+                Room room = new Room(counter, RoomType.SUITE);
+                this.rooms.Add(room);
+            }
         }
 
         public RoomController()
