@@ -1,7 +1,6 @@
 AlbonettiSrc/bin
 AlbonettiSrc/obj
 AlbonettiTest/obj
-AlbonettiTest/obj/
 AlbonettiTest/bin
 TozziSrc/bin
 TozziSrc/obj
@@ -12,4 +11,4 @@ TozziTest/bin
 *.suo
 *.cache
 *.testlog
-*.cache
+*.v2
